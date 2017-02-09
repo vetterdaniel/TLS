@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.greeninfo.mobilemapstarter" version="1.1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>MobileMapStarter</name>
+<widget id="org.greeninfo.TLS" version="1.1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>TLS</name>
     <description>
-        A starting framework for mobile maps using Cordova/Phonegap. A minimal but functional, standalone mobile app from which to build your own creations.
-        For more information, see the Github repository https://github.com/gregallensworth/MobileMapStarter
+  Test TLS app
     </description>
     <author href="http://www.greeninfo.org/" email="gregor@greeninfo.org">
         Greg Allensworth @ GreenInfo Network
